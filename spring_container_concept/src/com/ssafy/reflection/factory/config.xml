@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<daos>
+	<dao id="my">com.ssafy.reflection.factory.MyUserDao</dao>
+	<dao id="ora">com.ssafy.reflection.factory.OraUserDao</dao>
+	
+	<service>
+		<constructor-arg param="my" 
+	</service>
+</daos>
