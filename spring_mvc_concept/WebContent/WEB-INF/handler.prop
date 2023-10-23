@@ -1,0 +1,2 @@
+/board=com.ssafy.board.controller.BoardController
+/user=com.ssafy.board.controller.UserController
